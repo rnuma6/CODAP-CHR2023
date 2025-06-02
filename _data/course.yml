@@ -1,4 +1,4 @@
 title: CODAP Tutorial
 description: A tutorial on using the web-based, no-code tool - Common Online Data Analysis Platform <a href="https://codap.concord.org/">CODAP</a> - 
 using the County Health Rankings 2023 data.
-modules: ["setup", "content", "customize"]
+modules: ["About CODAP", "About Data", "Getting Started", "Preprocessing Data", "Data Visualization"]
