@@ -1,3 +1,4 @@
-title: CODAP Tutorial Using County Health Rankings 2023 Data
-description: An open-source project for creating online courses, built by <a href="https://www.p2pu.org">P2PU</a>
+title: CODAP Tutorial
+description: A tutorial on using the web-based, no-code tool - Common Online Data Analysis Platform <a href="https://codap.concord.org/">CODAP</a> - 
+using the County Health Rankings 2023 data.
 modules: ["setup", "content", "customize"]
