@@ -32,5 +32,5 @@ prose:
 jumbotron_color: "#FF6600"
 # jumbotron_image: "img/DEDICATE-logo.png"
 # jumbotron_image: "img/jumbotron-image.svg"
-# jumbotron_mask: "img/jumbotron-mask.svg"
+jumbotron_mask: "img/jumbotron-mask.svg"
 # jumbotron_icon: "img/box-icon.png"
